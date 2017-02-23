@@ -1,0 +1,71 @@
+1.Describe the characteristics of Big data in detail.
+         The characteristics of big data are:
+           
+          *Volume:
+                  The quantity of generated and stored data (ie) the amount of data.
+
+          *Variety:
+                   The type and nature of the data.It can be structured,unstructed or semi structed data.
+
+          *Velocity:
+                    The speed at which the data is generated and processed. 
+
+          *Veracity:
+                    Veracity refers to the messiness or trustworthiness of data.
+                        It also refers to the noise and abnormality in data.
+          *Value: 
+                 Value includes a large volume and variety of data that is easy to access
+                             and delivers quality analytics that enables informed decisions.
+                                 Value is an important tool.Big data is made useful by turning it into value.
+
+
+2.Explain the possible solutions to handle Big data.
+          The possible solution of big data are:
+
+             *Scale-up:
+                      -Scale up refers to the storing of resources on the single machine 
+                            (ie) if a file is of tetabytes, the entire file is stored on a single machine.
+                                
+                      -In case of failure the entire file get lost.
+                    
+                      -The resources are processed via parallel processing and faster memory access.
+              
+             *Scale-out:
+                       -Scale out refers to horizontal scaling.In scale out the resources are splitted and then stored
+                           (ie) if a file is of terabyte they are broken down into gigabyte and then they can be saved.
+
+                       -In case of failure the portion can be easily retrieved due to small volume of data.
+
+
+
+
+3.Explain the differences between scaling up and scaling out.
+
+             *Scaling up:
+                      -Scaling up refers to vertical scaling.
+
+                      -Scale up refers to the storing of resources on the single machine 
+                            (ie) if a file is of tetabytes, the entire file is stored on a single machine.
+                                
+                      -In case of failure the entire file get lost.
+                    
+                      -The resources are processed via parallel processing and faster memory access.
+
+             *Scaling out:
+                     
+                      -Scale out refers to horizontal scaling.In scale out the resources are splitted and then stored
+                               (ie) if a file is of terabyte they are broken down into gigabyte and then they can be saved.
+
+                      -In case of failure the portion can be easily retrieved due to small volume of data.
+
+                      
+              
+    
+                        
+     
+                       
+
+
+
+
+             
